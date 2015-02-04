@@ -7,7 +7,7 @@
 (global-set-key [f4] 'goto-line)
 
 (global-set-key (kbd "C-x C-b") 'ido-switch-buffer)
-(global-set-key (kbd "C-x B") 'ibuffer)
+(global-set-key (kbd "C-x b") 'ibuffer)
 
 (global-set-key (kbd "<C-S-up>") 'buf-move-up)
 (global-set-key (kbd "<C-S-down>") 'buf-move-down)
