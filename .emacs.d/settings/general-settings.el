@@ -48,6 +48,8 @@
 (setq-default indent-tabs-mode 1)
 (setq tab-width 8)
 
+(require 'dired-x)
+
 (cua-mode)
 
 (provide 'general-settings)
