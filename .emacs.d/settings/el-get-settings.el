@@ -15,6 +15,7 @@
 	buffer-move
 	smex
 	magit
+	xcscope
 	color-theme-solarized
 	))
 
