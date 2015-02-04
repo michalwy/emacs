@@ -15,6 +15,7 @@
 	buffer-move
 	smex
 	magit
+	color-theme-solarized
 	))
 
 (el-get 'sync my:el-get-packages)
