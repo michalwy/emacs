@@ -6,6 +6,8 @@
 
 (require 'el-get-settings)
 
+(require 'linum-settings)
+
 (require 'kbd-settings)
 
 (require 'aliases-settings)

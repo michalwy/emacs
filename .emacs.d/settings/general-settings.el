@@ -23,7 +23,6 @@
 
 (line-number-mode 1)
 (column-number-mode 1)
-(global-linum-mode 1)
 
 (setq-default case-fold-search 1)
 (setq read-file-name-completion-ignore-case t)
