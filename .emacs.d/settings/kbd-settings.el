@@ -1,3 +1,6 @@
+(global-set-key (kbd "TAB") 'self-insert-command)
+(global-set-key (kbd "DEL") 'backward-delete-char)
+
 (global-set-key (kbd "<C-end>") 'end-of-buffer)
 (global-set-key (kbd "<C-home>") 'beginning-of-buffer)
 

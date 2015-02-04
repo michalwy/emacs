@@ -44,9 +44,9 @@
 (show-paren-mode 1)
 (setq show-paren-style 'expression)
 
-(setq c-basic-offset 8)
-(setq-default indent-tabs-mode 1)
+(setq-default indent-tabs-mode t)
 (setq tab-width 8)
+(setq default-tab-width 8)
 
 (require 'dired-x)
 

@@ -17,3 +17,5 @@
 (require 'terminal-settings)
 
 (require 'ido-settings)
+
+(require 'cc-mode-settings)
