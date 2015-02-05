@@ -12,8 +12,6 @@
 
 (require 'linum-settings)
 
-(require 'kbd-settings)
-
 (require 'aliases-settings)
 
 (require 'terminal-settings)
@@ -21,3 +19,8 @@
 (require 'ido-settings)
 
 (require 'cc-mode-settings)
+
+(require 'gud-settings)
+
+(require 'kbd-settings)
+
