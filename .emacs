@@ -6,6 +6,8 @@
 
 (require 'el-get-settings)
 
+(require 'plugins-settings)
+
 (require 'theme-settings)
 
 (require 'linum-settings)
